@@ -1,7 +1,7 @@
 <html lang="en" class="no-js">
 
 <head>
-    <title>關於雷科-公司沿革</title>
+    <title>關於雷科-公司沿革00000</title>
     <meta charset="UTF-8">
     <meta name="keywords" content="LASER TEK, lasertek, 雷科股份有限公司, 關於雷科,公司沿革" />
     <meta name="description" content="公司沿革" />
